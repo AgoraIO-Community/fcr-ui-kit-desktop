@@ -146,7 +146,6 @@ export const ToolTip: FC<ToolTipProps> = (props) => {
     padding: '0 10px',
     background: `${colors?.['black']}`,
     border: `1px solid ${borderColor?.[1]}`,
-    fontFamily: 'Helvetica Neue',
     fontStyle: 'normal',
     fontWeight: '300',
     fontSize: '14px',

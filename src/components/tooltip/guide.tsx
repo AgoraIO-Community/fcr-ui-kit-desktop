@@ -65,7 +65,6 @@ export const GuideToolTip: FC<GuideToolTipProps> = (props) => {
     padding: '0',
     background: `${colors['brand'][6]}`,
     border: `1px solid ${colors['brand']['DEFAULT']}`,
-    fontFamily: 'Helvetica Neue',
     fontStyle: 'normal',
     fontWeight: '400',
     fontSize: '14px',
