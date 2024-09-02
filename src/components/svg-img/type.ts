@@ -12,6 +12,7 @@ export enum SvgIconEnum {
   FCR_BTN_LOADING = 'fcr_btn_loading',
   FCR_CAMERA = 'fcr_camera',
   FCR_CAMERA3 = 'fcr_camera3',
+  FCR_SUBTITIES = 'fcr_subtities',
   FCR_CAMERA_WINDOW_LOADING = 'fcr_camera_window_loading',
   FCR_CAMERA_WINDOW_NOT = 'fcr_camera_window_not',
   FCR_CAMERA_WINDOW_NOTWORK = 'fcr_camera_window_notwork',
@@ -25,6 +26,7 @@ export enum SvgIconEnum {
   FCR_CHEXBOX_INDETERMINATE = 'fcr_chexbox_indeterminate',
   FCR_CHOOSEIT = 'fcr_chooseit',
   FCR_CLOSE = 'fcr_close',
+  FCR_TRANSLATE = 'fcr_translate',
   FCR_COLON = 'fcr_colon',
   FCR_COPY = 'fcr_copy',
   FCR_COUNTDOWN_DOWN = 'fcr_countdown_down',
@@ -34,6 +36,7 @@ export enum SvgIconEnum {
   FCR_DOWN1 = 'fcr_down1',
   FCR_DROPDOWN = 'fcr_dropdown',
   FCR_DROPDOWN4 = 'fcr_dropdown4',
+  FCR_DROPUP5 = 'fcr_dropup5',
   FCR_DROPUP4 = 'fcr_dropup4',
   FCR_EMO = 'fcr_emo',
   FCR_FILE = 'fcr_file',
@@ -193,5 +196,11 @@ export enum SvgIconEnum {
   FCR_RECORDING_END = 'fcr_recording_end',
 
   FCR_WIZARD_ARROW = 'fcr_wizard_arrow',
-  FCR_PPT_BROKEN = 'fcr_ppt_broken'
+  FCR_PPT_BROKEN = 'fcr_ppt_broken',
+  FCR_V2_SUBTITIES = 'fcr_v2_subtities',
+  FCR_V2_RTT = 'fcr_v2_rtt',
+  FCR_V2_RIGHT = 'fcr_v2_right',
+  FCR_V2_REFRESH = 'fcr_v2_refresh',
+  FCR_V2_HEAR = 'fcr_v2_hear',
+  FCR_ARROW_RIGHT = 'fcr_arrow_right'
 }
