@@ -1,6 +1,6 @@
 {
   "name": "fcr-ui-kit",
-  "version": "1.0.1",
+  "version": "2.9.51",
   "scripts": {
     "storybook": "start-storybook -p 6006 --no-manager-cache",
     "convertsvg": "ts-node --skipProject tools/convertsvg"
